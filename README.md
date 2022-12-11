@@ -2,7 +2,7 @@
 
 This repository contains the code related to the third homework of the course Algorithmic Methods of Data Mining and Laboratory 2022/2023.
 
-It consists in 4 files:
+It consists in 2 files:
 
 1- main.ipynb
 
